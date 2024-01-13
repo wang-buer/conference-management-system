@@ -1,10 +1,10 @@
-# 会议管理系统
+# 会议管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**会议** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**会议**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,39 +35,31 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051602161.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208051602161.jpg)
 
 ### 4.2员工 模块
 
-![用户-查看会议室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051602265.jpg)
+![用户-查看会议室](https://www.codeshop.fun/Typora-Images/202208051602265.jpg)
 
-![用户-预订会议](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051602460.jpg)
+![用户-预订会议](https://www.codeshop.fun/Typora-Images/202208051602460.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-部门管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603009.jpg)
+![管理员-部门管理](https://www.codeshop.fun/Typora-Images/202208051603009.jpg)
 
-![管理员-个人会议](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603906.jpg)
+![管理员-个人会议](https://www.codeshop.fun/Typora-Images/202208051603906.jpg)
 
-![管理员-会议详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603739.jpg)
+![管理员-会议详情](https://www.codeshop.fun/Typora-Images/202208051603739.jpg)
 
-![管理员-添加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603919.jpg)
+![管理员-添加员工](https://www.codeshop.fun/Typora-Images/202208051603919.jpg)
 
-![管理员-注册人员审批](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603284.jpg)
+![管理员-注册人员审批](https://www.codeshop.fun/Typora-Images/202208051603284.jpg)
 
-![管理员-搜索员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603390.jpg)
+![管理员-搜索员工](https://www.codeshop.fun/Typora-Images/202208051603390.jpg)
 
-![管理员-所有会议](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603573.jpg)
+![管理员-所有会议](https://www.codeshop.fun/Typora-Images/202208051603573.jpg)
 
-![管理员-所有会议室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603840.jpg)
+![管理员-所有会议室](https://www.codeshop.fun/Typora-Images/202208051603840.jpg)
 
-![管理员-添加会议室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051603022.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**会议** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-添加会议室](https://www.codeshop.fun/Typora-Images/202208051603022.jpg)
 
